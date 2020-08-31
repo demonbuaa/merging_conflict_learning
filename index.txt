@@ -1,2 +1,3 @@
 zeroth commit
-second commit 
+second commit changed in master 
+third commit in master
