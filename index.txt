@@ -1,3 +1,8 @@
 zeroth commit
-second commit changed both in master and branch1
+
 third commit both in master and branch1
+=======
+second commit by branch1
+third line by branch1
+add something after branch1
+>>>>>>> branch1
