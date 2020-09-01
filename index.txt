@@ -1,8 +1,9 @@
 zeroth commit
 
 third commit both in master and branch1
-=======
 second commit by branch1
 third line by branch1
 add something after branch1
->>>>>>> branch1
+some modification on github.com
+this line is added here for show pull request
+
